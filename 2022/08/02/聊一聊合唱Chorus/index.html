@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  
+  
+  <meta name="keywords" content="合成器博客">
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>
+    聊一聊合唱Chorus |
+    
+    2osc - 合成器与声音博客</title>
+  
+  <link rel="shortcut icon" href="/favicon.ico">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
+
+  
+  
+<script src="/js/pace.min.js"></script>
+
+<meta name="generator" content="Hexo 5.4.2"></head>
+
+<body>
+  <main class="content">
+    <section class="outer">
+  <article id="post-聊一聊合唱Chorus" class="article article-type-post" itemscope
+  itemprop="blogPost" data-scroll-reveal>
+
+  <div class="article-inner">
+    
+    <header class="article-header">
+      
+
+<h1 class="article-title" itemprop="name">
+  聊一聊合唱Chorus
+</h1>
+
+
+
+    </header>
+    
+
+    
+    <div class="article-meta">
+      <a href="/2022/08/02/%E8%81%8A%E4%B8%80%E8%81%8A%E5%90%88%E5%94%B1Chorus/" class="article-date">
+  <time datetime="2022-08-02T06:47:04.000Z" itemprop="datePublished">2022-08-02</time>
+</a>
+      
+    </div>
+    
+
+    
+    
+<div class="tocbot"></div>
+
+    
+
+    <div class="article-entry" itemprop="articleBody">
+      
+      
+      
+      <p>如果你是一位硬核的吉他手，想必你一定拥有一堆单块效果器，可能还有钟爱的xx款箱头，xx年的古董失真。合成器玩家也需要丰富的效果器，都会希望用它们塑造全新的声音，但有一种效果器却在合成器与电吉他间收获了截然不同的待遇，它就是今天的主角——合唱(chorus)。</p>
+<p><img src="/images/Junochorus.jpg" alt="Junochorus"></p>
+<span id="more"></span>
+
+<p>合唱本身的原理很简单，本质上是一个0反馈的延迟效果器，由一个LFO调制其延迟时间（一般在几毫秒到十几毫秒之间），将调制后的信号与原信号混合，你就得到了一个合唱效果器。现在的合唱多为立体声合唱，会有2条延迟效果链，分别在左声道和右声道，营造出宽广的声场。</p>
+<p>一般我们都会认为合唱效果器可以增厚音色，添加动感和空间感，但是，在成为今天所见的，装在一个小盒子里的效果器之前，合唱走过了相当长的路程，这也是人类尝试增厚音色的历史，本篇文章我们将了解合唱被发明的历史，并构建一个自己的合唱效果器。</p>
+<h2 id="解协Detune"><a href="#解协Detune" class="headerlink" title="解协Detune"></a>解协Detune</h2><p>很早以前人们就发现，同时演奏多个相同乐器可以获得丰满的声音效果，这是因为不同乐器的音色，音高都有细微的不同，叠加在一起时并不是1+1=2的效果，而是由细微的不同产生了各种动态变化。这一原理也应用到了合成器里，常见的模拟合成器都有2个或更多的振荡器，经典玩法就是使用2个锯齿波，将他们的音高互相偏移一点，然后Duang～，你就得到了最经典的“合成器音色”。这想必是各位熟悉的部分，这样的思想实际上在机械管风琴上就出现了，管风琴的每个音符实际上对应多个音管，每个管子的音高也有所不同，这就是最早的增厚音色的方法，也就是用机械的方法产生Detune，而之后的各种变化也都是基于Detune这一理念</p>
+<p><img src="/images/Pipe-Organ.jpeg" alt="Pipe-Organ"></p>
+<h2 id="旋转音箱Rotatory-Speakers"><a href="#旋转音箱Rotatory-Speakers" class="headerlink" title="旋转音箱Rotatory Speakers"></a>旋转音箱Rotatory Speakers</h2><p>到了电子技术飞速发展的时代，哈蒙德风琴被发明了，这也是最早的电子键盘乐器之一，尽管它们十分畅销，却有一个明显的问题——它们听起来不像真实的风琴。然而这一切都将改变，1940年，一位名叫Leslie的天才发明了世界上首个旋转音箱，并以自己的名字命名。尽管“旋转音箱”听起来像是某种玩具，其背后可是机械和电子科学的完美结合。</p>
+<img src="/images/leslie-speaker.jpeg" alt="leslie speaker" style="zoom: 33%;" />
+
+<img src="/images/Leslie-speaker2.jpg" alt="Leslie-speaker" style="zoom: 50%;" />
+
+<p>叫做旋转音箱的原因是，箱体内真的有旋转的声音单元，高音部分2个，低音部分1个，高音部分是2个喇叭相背放置，低音部分则只有一个喇叭，它们都安装在底盘上，以不同速度旋转，产生类似合唱与颤音（tremolo)的效果。</p>
+<p>可能这里你还没有意识到这项发明的天才所在，我们来捋一捋。</p>
+<p>由于多普勒效应，汽车驶向我们时，其鸣笛的音高会变高（如果你想亲自实验，记着躲开汽车），反之亦然，而旋转的喇叭恰好就是这一效应的体现，当喇叭向前转动时音高会变高，而与之相背的另一个喇叭音高会变低，也就是说，我们实现了将一个声音变成2份，并且让它们的声音高低循环变化的效果。换句话说，Detune的效果。这样的设计还有一个好处，随着喇叭位置的改变，音量也会出现动态变化（下方的低音单元就是纯粹为了颤音效果），这样就实现了非常丰富的音色变化，想了解具体效果，请看如下<a target="_blank" rel="noopener" href="https://www.bilibili.com/video/BV1zi4y1P7y1">视频</a>：</p>
+<div><iframe src="//player.bilibili.com/player.html?aid=544816809&bvid=BV1zi4y1P7y1&cid=315655536&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></div>
+
+<h2 id="音高调制Pitch-Modulation"><a href="#音高调制Pitch-Modulation" class="headerlink" title="音高调制Pitch Modulation"></a>音高调制Pitch Modulation</h2><p>二战时期，有一项技术在德国被发明，这就是磁带，可以说，可编辑的磁带开启了全新的音乐纪元。前面我们提到了用机械方法产生Detune，然而这只适用于乐器的发声或扩音部分，可不可以将录制下来的声音做出detune的效果呢？有一个显而易见的方法是，将同一份声音复制到两段磁带上，再将磁带的播放速度改变，这样音高就会产生微小的差异。然而由于速度差异，这种方法会导致音频出现时间上的差距，也就意味着两段音频对不齐。直到……</p>
+<p><img src="/images/ken-townsend.jpg" alt="ken-townsend"></p>
+<p>1966年，Abbey Road Studio的Ken Townsend发明了Artificial Double Tracking(ADT)技术，即同时录制两个轨道，一个轨道的时间略有延后，然后规律性地增大减小这个磁带的播放速度，如此便实现了音高的偏移，产生了同期合唱的效果，并且由于既有快放也有慢放，综合下来磁带不会出现时间偏差。</p>
+<p>当时他正在为Beatles录音，方法是让保罗听自己前一次的录音，并跟着唱，得到2次录音，这样做十分繁琐并且也很浪费磁带机的轨道。Townsend在回家路上想出了解决办法，并在第二天早上试验成功，这项技术的发明就是这么简单。</p>
+<p>ADT相当好用，并且只需要一台磁带机就能实现，现在有很多Detune插件就是一模一样的原理。</p>
+<p>想了解更多关于ADT的故事，可以看一看<a target="_blank" rel="noopener" href="https://www.waves.com/behind-abbey-road-adt-effect">waves网站</a>上的这篇文章</p>
+<p><img src="/images/reel-adt-hardware.jpg" alt="reel-adt-hardware"></p>
+<p>Abbey Road Studio用于调制磁带速度的工具TG-150m</p>
+<h2 id="时间调制Time-Constant-Modulation"><a href="#时间调制Time-Constant-Modulation" class="headerlink" title="时间调制Time Constant Modulation"></a>时间调制Time Constant Modulation</h2><p>实际上，当时效果器界最头疼的问题就是如何优雅地实现延迟效果，因为当时还不存在数字信号处理，想要对音频信号进行延迟，就得想办法将其保存下来。在BBD发明之前，唯一的选择是以罗兰RE-201为代表的磁带延迟效果器，将声音录在一段首尾相接的磁带上，来达到延迟的效果。这种方法不仅十分笨重，机器的可靠性也是个问题，所以并没能走到乐手的手中。</p>
+<p>直到BBD的发明改变了这一切，Bucket Brigade原意指的是救火时的传水方法：每个人手持一个桶，从前一位手里接水并传给下一位。这和BBD的原理十分相似，只不过BBD用的是存储电子的桶——电容。![A-188-BBD](/images/A-188 BBD.jpeg)</p>
+<p><img src="/images/bbd-dia.png" alt="截屏2022-08-08-下午12.56.42"></p>
+<p>这是著名BBD芯片MN3000系列的原理图，芯片连接到外部音频输入，不断地将输入电压存储到第一个电容中，并将每个电容的电压传递给下一个。芯片需要由一个外部时钟驱动，也就是说，虽然芯片内传递的是模拟量，但是在时间上却是不连续的，也就意味着，频宽会受到香农采样定理的限制。一个BBD芯片内通常有成百上千个电容，依次传递电压的过程会产生了延迟，最长延迟时间一般为十几毫秒。</p>
+<p>这里的原理是，我们可以通过改变读出信号的速率来调制延迟时长，也就改变了音高本身，基于这一特点，基于BBD的合唱（当然，还有Delay）诞生了，也就是说，用一个LFO来调制BBD的延迟时间，这也就是现代合唱效果器的诞生。</p>
+<p><img src="/images/chorus_diagram1.png" alt="chorus_diagram1"></p>
+<p>最简化的合唱效果器原理</p>
+<h2 id="制作你自己的合唱"><a href="#制作你自己的合唱" class="headerlink" title="制作你自己的合唱"></a><strong>制作你自己的合唱</strong></h2><p>说了这么多，合唱这个概念应该不再陌生了，那么，既然合唱就是延迟，可不可以自己用延迟搭建一个合唱呢？当然可以！下面我们就在强大的Ableton Live里制作一个合唱吧。</p>
+<p><img src="/images/abchorus1.png" alt="截屏2022-08-08-下午12.21.06"></p>
+<p>首先我们需要一个Delay，将时间设置在5-20ms内可以获得良好的效果。</p>
+<p>这个时候还不会有什么效果，弹奏一个声音也只能听到它和自己叠加的效果，</p>
+<p>那么，下面让它动起来！</p>
+<p><img src="/images/abchorus2.png" alt="截屏2022-08-08-下午12.23.20"></p>
+<p>下面插入一个LFO，调制目标是延迟时间，这里左右时间是联动的所以只需要调制一边。上方12%-37%是取值范围，下面通过Depth来控制调制量，这个时候，你就应该能听到合唱的效果了。</p>
+<p>不过目前还是单声道的合唱，我们想要的是立体声合唱，这不难，只要再插入一个轨道，分别pan至左右即可，为了提升效果，可以将第二个LFO的相位设置为50%（如上图）。</p>
+<p><img src="/images/abchorus3.png" alt="截屏2022-08-08-下午12.27.26"></p>
+<p><img src="/images/abchorus4.png" alt="截屏2022-08-08-下午12.50.34"></p>
+<p>为了方便使用，可以将参数映射到宏，干湿比一般为50%，这里的LFO Jitter是为了让音色多一些随机性。</p>
+<p>那么，我们的合唱到这里就完成了，如果你想直接拿来用，可以点击<a target="_blank" rel="noopener" href="https://2osc-files.oss-cn-shanghai.aliyuncs.com/shared/Stereo%20Chorus.adg">这里</a>下载我的预设。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://2osc.com/2022/08/02/%E8%81%8A%E4%B8%80%E8%81%8A%E5%90%88%E5%94%B1Chorus/" data-id="clahsi1f80036d8wqedtv9mxq" class="article-share-link">
+        分享
+      </a>
+      
+<ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%90%88%E5%94%B1/" rel="tag">合唱</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%90%88%E6%88%90%E5%99%A8/" rel="tag">合成器</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%95%88%E6%9E%9C%E5%99%A8/" rel="tag">效果器</a></li></ul>
+
+    </footer>
+
+  </div>
+
+  
+  
+<nav class="article-nav">
+  
+  <a href="/2022/10/09/%E6%83%B3%E7%8E%A9%E6%A8%A1%E5%9D%97%EF%BC%9F%E5%85%B3%E4%BA%8EEurorack%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C/" class="article-nav-link">
+    <strong class="article-nav-caption">前一篇</strong>
+    <div class="article-nav-title">
+      
+      想玩模块？关于Eurorack你需要的都在这里
+      
+    </div>
+  </a>
+  
+  
+  <a href="/2022/07/17/%E9%AD%94%E5%8A%9B%E5%B0%8F%E6%80%AA%E5%85%BD-%E5%AE%81%E6%A2%B5NA3-Essentials/" class="article-nav-link">
+    <strong class="article-nav-caption">后一篇</strong>
+    <div class="article-nav-title">魔力小怪兽-宁梵NA3-Essentials</div>
+  </a>
+  
+</nav>
+
+  
+
+  
+  
+<div class="vcomments" id="vcomments"></div>
+
+<script src="https://unpkg.com/valine/dist/Valine.min.js"></script>
+
+<script>
+  new Valine({
+    el: '#vcomments',
+    appId: 'x0UTb7NnqJErfiGbtNXmCJKD-gzGzoHsz',
+    appKey: '6Pexd4KRHaXGq2hxFDKA5FUe',
+    notify: 'false',
+    verify: 'true',
+    avatar: 'mp',
+    pageSize: '10',
+    placeholder: '留下你的想法\n使用头像请在 http://cn.gravatar.com/ 注册并在上面填写你的注册邮箱'
+  })
+</script>
+
+  
+  
+
+</article>
+</section>
+    <footer class="footer">
+  <div class="outer">
+    <div class="float-right">
+      <ul class="list-inline">
+  
+  <li><i class="fe fe-smile-alt"></i> <span id="busuanzi_value_site_uv"></span></li>
+  
+  <li><i class="fe fe-bookmark"></i> <span id="busuanzi_value_page_pv"></span></li>
+  
+</ul>
+    </div>
+    <ul class="list-inline">
+      <li>2osc - 合成器与声音博客 &copy; 2022</li>
+      
+      <li>Powered by <a href="http://hexo.io/" target="_blank">Hexo</a></li>
+      <li>theme  <a target="_blank" rel="noopener" href="https://github.com/zhwangart/hexo-theme-ocean">Ocean</a></li>
+    </ul>
+  </div>
+</footer>
+  </main>
+  <aside class="sidebar">
+    <button class="navbar-toggle"></button>
+<nav class="navbar">
+  
+  <div class="logo">
+    <a href="/"><img src="/images/hexo.svg" alt="2osc - 合成器与声音博客"></a>
+  </div>
+  
+  <ul class="nav nav-main">
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/">主页</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/archives">归档</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/gallery">相册</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/about">关于</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link nav-item-search" title="搜索">
+        <i class="fe fe-search"></i>
+        搜索
+      </a>
+    </li>
+  </ul>
+</nav>
+<nav class="navbar navbar-bottom">
+  <ul class="nav">
+    <li class="nav-item">
+      <div class="totop" id="totop">
+  <i class="fe fe-rocket"></i>
+</div>
+    </li>
+    <li class="nav-item">
+      
+    </li>
+  </ul>
+</nav>
+<div class="search-form-wrap">
+  <div class="local-search local-search-plugin">
+  <input type="search" id="local-search-input" class="local-search-input" placeholder="Search...">
+  <div id="local-search-result" class="local-search-result"></div>
+</div>
+</div>
+  </aside>
+  
+<script src="/js/jquery-2.0.3.min.js"></script>
+
+
+<script src="/js/jquery.justifiedGallery.min.js"></script>
+
+
+<script src="/js/lazyload.min.js"></script>
+
+
+<script src="/js/busuanzi-2.3.pure.min.js"></script>
+
+
+
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/js/copybtn.js"></script>
+
+
+
+
+
+<script src="/js/tocbot.min.js"></script>
+
+<script>
+  // Tocbot_v4.7.0  http://tscanlin.github.io/tocbot/
+  tocbot.init({
+    tocSelector: '.tocbot',
+    contentSelector: '.article-entry',
+    headingSelector: 'h1, h2, h3, h4, h5, h6',
+    hasInnerContainers: true,
+    scrollSmooth: true,
+    positionFixedSelector: '.tocbot',
+    positionFixedClass: 'is-position-fixed',
+    fixedSidebarOffset: 'auto',
+  });
+</script>
+
+
+
+<script src="/js/ocean.js"></script>
+
+</body>
+
+</html>

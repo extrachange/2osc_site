@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  
+  
+  <meta name="keywords" content="合成器博客">
+  
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <title>
+    想玩模块？关于Eurorack你需要的都在这里 |
+    
+    2osc - 合成器与声音博客</title>
+  
+  <link rel="shortcut icon" href="/favicon.ico">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
+  
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.min.css">
+
+  
+  
+<script src="/js/pace.min.js"></script>
+
+<meta name="generator" content="Hexo 5.4.2"></head>
+
+<body>
+  <main class="content">
+    <section class="outer">
+  <article id="post-想玩模块？关于Eurorack你需要的都在这里" class="article article-type-post" itemscope
+  itemprop="blogPost" data-scroll-reveal>
+
+  <div class="article-inner">
+    
+    <header class="article-header">
+      
+
+<h1 class="article-title" itemprop="name">
+  想玩模块？关于Eurorack你需要的都在这里
+</h1>
+
+
+
+    </header>
+    
+
+    
+    <div class="article-meta">
+      <a href="/2022/10/09/%E6%83%B3%E7%8E%A9%E6%A8%A1%E5%9D%97%EF%BC%9F%E5%85%B3%E4%BA%8EEurorack%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C/" class="article-date">
+  <time datetime="2022-10-09T15:20:46.000Z" itemprop="datePublished">2022-10-09</time>
+</a>
+      
+    </div>
+    
+
+    
+    
+<div class="tocbot"></div>
+
+    
+
+    <div class="article-entry" itemprop="articleBody">
+      
+      
+      
+      <p>从合成器诞生之初，模块合成器就一直是一个重要的分支，到了今天，仍然有很多人热爱着模块合成器，依靠着开放的标准和极具竞争力的产品，Eurorack成为了当下最热门的模块格式，本文就将带你以正确的姿势入坑Eurorack。</p>
+<p>本文部分内容来自于<a target="_blank" rel="noopener" href="https://intellijel.com/support/eurorack-101/">intellijel Eurorack 101</a></p>
+<span id="more"></span>
+<h2 id="0-基础篇"><a href="#0-基础篇" class="headerlink" title="0.基础篇"></a>0.基础篇</h2><p>Eurorack是由<u>Dieter Doepfer</u>于19年设计的合成器格式，本质上就是Moog，罗兰等模块合成器规格的缩小版，但是其拥有开放的标准和完善的第一方模块，因此很多第三方厂商加入了这一阵营，现在有着极其庞大的模块数量。</p>
+<h3 id="为什么玩模块？"><a href="#为什么玩模块？" class="headerlink" title="为什么玩模块？"></a>为什么玩模块？</h3><p>在常规的合成器里，振荡器，滤波器，放大器等元件是按照固定的顺序连接的，并且会提供一些有限的调制链路供用户选用。</p>
+<p>然而模块合成器是按照相反的思路设计，将各个部分做成独立的模块，每个模块上有3.5mm接口用来互相连接，由于模块是相对独立的，所以无论如何都需要连线才能够输出声音。这种设计的优点在于，你可以将任何类型的信号接入到任何模块中。</p>
+<p>举个例子，用滤波器的高通输出调制Cutoff并输出同一滤波器的低通信号，这样的信号链路唯有模块合成器才能完成。</p>
+<p>实际上，将Eurorack称为模块合成器并不准确，因为一套系统可以是合成器，也可以是效果器，音序器。在笔者看来，Eurorack系统的最大优点在于，用户可以设计自己理想中的乐器，而不是受限于厂商提供的功能，例如，将灵活的波表振荡器与经典的Moog滤波器搭配，再接上经典的BBD合唱；抑或是，拥有数个截然不同的振荡器与调制系统，来创造复杂至极的质感。这样来看，每个人都能拥有独属自己的独一无二的乐器，这便是Eurorack的独特魅力。</p>
+<h2 id="1-CV——万物之源"><a href="#1-CV——万物之源" class="headerlink" title="1.CV——万物之源"></a>1.CV——万物之源</h2><p>下面来看看Eurorack的核心概念——Control Voltage，简称CV，翻译过来是控制电压，因为大部分模块都是模拟电路，所以系统中的一切信号，从音频到音高到调制都是用电压表示的。</p>
+<p>Eurorack中的电压范围是-10V～+10V，大多数模块的输出电压大小在5V左右，较高的电压可以保证良好的信噪比与宽广的调制范围。</p>
+<p>模拟模块可以直接处理模拟信号，而数字模块则需要将模拟信号转换成数字信号进行处理，最后转化成模拟信号，才能与其它模块交流，或者变成我们能听到的声音信号。</p>
+<p><img src="/images/CV-types.png" alt="截屏2022-10-17 下午1.38.54"></p>
+<p>常见的CV信号类型有音高信号，门信号，包络，LFO。</p>
+<p><strong>音高信号</strong>通常是一个稳定的电压值，Eurorack采用1v/Oct的控制电压标准，意味着电压每升高1V，对应的音高就会升高一个八度，而CV电压的范围是-10V～+10V，意味着总共的音高控制范围是20个八度。有些模块合成器采用不一样的标准，例如Korg MS-20采用Hz/V的设计。</p>
+<p><strong>门信号</strong>的特点是只有2种电压状态，高电压与低电压，通常用于表示键盘触发状态，当按下按键时，键盘就会输出一个高电平，用这个信号可以触发多种模块的行动，例如包络，LFO。</p>
+<p>与门信号相似的还有<strong>触发信号</strong>，<strong>时钟信号</strong>，触发信号是一个短脉冲，不会像门信号一样持续保持在高电平，常见在鼓的触发，音序器的启动控制等等；时钟信号则是一个周期性重复的触发信号，它的作用是将一套系统中的模块（或是外部设备）同步起来，一般是与当前的拍速为计量标准，每八分音符和十六分音符发出一个触发信号，这与LFO的功能十分相近，但是需要极高的精确度，因而往往用独立的模块来产生稳定的时钟。</p>
+<p><strong>包络</strong>是一个单极性信号（也就是电压一直为正电压或者负电压），在受到外界门信号触发时，输出一个随时间变化的电压，这对于合成器玩家来说应该都不陌生。</p>
+<p><strong>LFO</strong>是<strong>Low Frequency Oscillator</strong>的缩写，意为低频振荡器，会输出一个缓慢的固定波形，同样也是合成器中常见的元素，模块合成器中的LFO是交流信号，这样就可以进行正向和反向调制，例如颤音。</p>
+<h2 id="2-输入与输出"><a href="#2-输入与输出" class="headerlink" title="2.输入与输出"></a>2.输入与输出</h2><p>第一次看到模块合成器是，你可能会想，“我该如何演奏它？”抑或是，“我怎样才能听到它的声音？”这就是模块合成器特殊的地方了，由于CV音频的电压十分高，将一个耳机插到模块上的3.5mm接口上会得到震耳欲聋的声音，并且，模块的输出只有单声道，如果这么做的话，你可能只有右耳能听到声音了。</p>
+<p>所以，我们需要一个<strong>专用</strong>的模块来将CV电压转化为线路电平，例如下面的Intellijel Headphones 1U模块，将你的信号输出插入到这个模块的输入，将耳机或者声卡连接到这个模块的输出，就可以听到你想要的声音啦。</p>
+<p>当然，还有一个问题没有解决，我们该如何演奏<strong>模块</strong>合成器呢？</p>
+<p>常见的合成器可以通过连接MIDI键盘来演奏，Eurorack也不例外，只是你同样需要一个将MIDI信号转换成CV信号的模块，有了这个模块你就可以像传统的合成器一样演奏它了。在一些模块中，还提供了MIDI CC转换成CV的功能，可以更方便地用电脑和外部控制器进行自动化控制。此外，不少合成器与MIDI键盘自带有CV输出（例如Keystep），可以用键盘直接控制你的模块。</p>
+<p>不过，模块合成器的魅力在于你并不需要一个键盘就可以演奏，你可以使用音序器模块，触摸控制器模块，甚至是随机信号生成器来演奏你的合成器，在模块的世界，你可以见到各种各样的控制器，例如下图的特雷门琴模块与条带控制器。</p>
+<p>此外，除了使用专门的模块，许多声卡也具备输出直流信号的能力，只要查看你的声卡的数据页，如果关于接口的描述上有“DC-Coupled”字样，也就意味着该接口可以输出CV，那么你即可以将声卡的输出直接接入到模块上，在电脑上利用<a target="_blank" rel="noopener" href="https://www.ableton.com/en/packs/cv-tools">CV-Tools</a>等工具就可以在软件上直接控制你的模块系统。</p>
+<h2 id="3-模块电源箱"><a href="#3-模块电源箱" class="headerlink" title="3.模块电源箱"></a>3.模块电源箱</h2><p>如果你看到了关于模块合成器的图片，你会发现模块都是装在一个大箱子里，这样的箱子我们称之为电源箱，起到固定模块与提供供电两种作用。</p>
+<h3 id="尺寸"><a href="#尺寸" class="headerlink" title="尺寸"></a>尺寸</h3><p>首先来认识一下模块合成器的<strong>尺寸</strong>单位，模块的宽度用HP来计量，1HP为5.08mm，模块最小需要2HP，而宽度则没有上限，电源箱的参数上会标注其HP数，借此你可以判断你能在这个箱子中装下多少模块。</p>
+<p>常见的电源箱宽度有84HP与104HP两种规格，84HP的宽度与19寸音频机架相当，因而可以很方便地安装到工作室中，104HP则更适合放在桌面上，宽度正适合在原地用双手操作。</p>
+<p>标准Eurorack模块的高度是3U，也就是音频机架的那个U单位，这一点纯粹是为了方便装入机架而设计的，也就是5.25英寸。除此之外Intellijel和Pulp Logic还设计了1U高度的模块，高度时普通模块的1/3，由于许多模块只有简单的功能面板，抑或是横向的排列更合逻辑，1U的形态更适合这些模块。许多厂商都推出了带有1U的电源箱，加上一排3U导轨便是4U，所以称之为4U电源箱。不过需要注意的是，Intellijel与Pulp Logic的1u标准并不兼容。</p>
+<h3 id="电源"><a href="#电源" class="headerlink" title="电源"></a>电源</h3><p>大部分模块都需要供电才能工作，所有模块通过一个10pin的排线与电源箱相连，电源箱会提供+12V，-12V，+5V电源（部分没有），常见的是电源板式电源，在箱子内部固定一块布满电源接口的电路板，也有的箱子内部没有电路板，而是从电源模块延伸出一些排线，两种连接方式没有差异，但排线更容易损坏或脱落，所以更推荐使用电源板的设计。</p>
+<p>关于电源，一个重要指标是电源的负载能力，这一点一般表示为电源的最大输出电流，模块生产商也会标出模块所需的电流，将它们相加就可以得出你所需要的功率，如果模块超出了电源的负载能力，系统将不能正常工作并有损坏风险。</p>
+<p><strong>固定</strong></p>
+<p>很明显，模块通过四角的螺丝固定在电源箱的的导轨上，不过实际上模块是被夹在箱子里的，因为模块上的固定孔内并无螺纹。使用的螺丝是M3螺丝，长度一般为8mm或6mm，但是常见的金属螺丝反复拆装会在模块面板上留下痕迹，笔者推荐使用塑料螺丝来最大限度地减少外观损伤。</p>
+<p><strong>外设</strong></p>
+<p>许多电源箱甚至配不上电源箱的名字，因为其只是一个能固定模块的箱子罢了，电源需要单独的模块来提供。现在的很多电源箱除了供电还提供了实用的外设，例如NiftyCase上内置了Midi转CV的接口，Intellijel的箱子上集成了Multi模块，Midi接口和音频接口等，这些外设可以代替许多模块的功能，对缩减系统的体积往往很有帮助。</p>
+<h2 id="4-常见的模块"><a href="#4-常见的模块" class="headerlink" title="4.常见的模块"></a>4.常见的模块</h2><p>补充：西岸与东岸风格</p>
+<h2 id="5-捏音色的新思路"><a href="#5-捏音色的新思路" class="headerlink" title="5.捏音色的新思路"></a><strong>5.捏音色的新思路</strong></h2><p>虽然本节名字叫“思路‘，但在模块的世界里并没有能够阻止你自由实验的东西，所以没有必要循规蹈矩，但是笔者希望在这里提供一些独特的连接方式，借此带来全新的思路。</p>
+<p>1.karplus strong</p>
+<p>2.S&amp;H</p>
+<p>3.Feedback</p>
+<h2 id="6-规划你的第一个系统"><a href="#6-规划你的第一个系统" class="headerlink" title="6.规划你的第一个系统"></a>6.规划你的第一个系统</h2><p>看了这些，想必你已经对自己的第一个模块合成器系统跃跃欲试了，下面将提供一些构建与规划系统的建议，毕竟模块合成器是一个烧钱的爱好，少走弯路是最好的。</p>
+<h3 id="所需模块"><a href="#所需模块" class="headerlink" title="所需模块"></a>所需模块</h3><p>假设你想发挥模块的专长，那么需要很多的模块来实现完善的功能，不过大部分人都会在不断尝试中反复替换自己的模块，以求找到最适合自己的那一个。因此笔者推荐新手第一步购买有限的基础模块，在熟悉思路以后便会明白自己需要什么。</p>
+<p>笔者认为，除去输出、MIDI这种连接模块，一套系统里应当包含至少一个振荡器，2个包络，2个VCA，一个衰减器，一个时钟，一个滤波器，2个Mult。</p>
+<p>其中，振荡器是合成器的心脏，也是许多调制的来源，是最基础的组件。</p>
+<p>包络则是创建调制的最常用方法，其属于更广泛的Contour Generator类，如果说保留一个最实用的调制源，那必然是包络生成器。</p>
+<p>而衰减器与VCA则是调制的手段，可以细致的对调制信号进行塑形，属于工具类的组件，当然这种工具模块有非常非常多，实际上你的VCA永远是不够用的（狗头）</p>
+<h3 id="Modulargrid"><a href="#Modulargrid" class="headerlink" title="Modulargrid"></a>Modulargrid</h3><p>在真正购买电源箱和模块之前，你肯定希望有个方法能够规划并预览整个系统，以确保空间和钞票够用，那么，这里十分推荐<a href="modulargrid.net">Modulargrid</a>这个网站。在这里你可以找到几乎所有的模块并将它们放置到一个虚拟的箱子中，许多厂商会主动地上传自己的模块资料，因而上面的信息更新的都很及时。</p>
+
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="https://2osc.com/2022/10/09/%E6%83%B3%E7%8E%A9%E6%A8%A1%E5%9D%97%EF%BC%9F%E5%85%B3%E4%BA%8EEurorack%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9A%84%E9%83%BD%E5%9C%A8%E8%BF%99%E9%87%8C/" data-id="clahsi1ev000sd8wqf2bp5ru6" class="article-share-link">
+        分享
+      </a>
+      
+<ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E6%A8%A1%E5%9D%97/" rel="tag">-模块</a></li></ul>
+
+    </footer>
+
+  </div>
+
+  
+  
+<nav class="article-nav">
+  
+  
+  <a href="/2022/08/02/%E8%81%8A%E4%B8%80%E8%81%8A%E5%90%88%E5%94%B1Chorus/" class="article-nav-link">
+    <strong class="article-nav-caption">后一篇</strong>
+    <div class="article-nav-title">聊一聊合唱Chorus</div>
+  </a>
+  
+</nav>
+
+  
+
+  
+  
+<div class="vcomments" id="vcomments"></div>
+
+<script src="https://unpkg.com/valine/dist/Valine.min.js"></script>
+
+<script>
+  new Valine({
+    el: '#vcomments',
+    appId: 'x0UTb7NnqJErfiGbtNXmCJKD-gzGzoHsz',
+    appKey: '6Pexd4KRHaXGq2hxFDKA5FUe',
+    notify: 'false',
+    verify: 'true',
+    avatar: 'mp',
+    pageSize: '10',
+    placeholder: '留下你的想法\n使用头像请在 http://cn.gravatar.com/ 注册并在上面填写你的注册邮箱'
+  })
+</script>
+
+  
+  
+
+</article>
+</section>
+    <footer class="footer">
+  <div class="outer">
+    <div class="float-right">
+      <ul class="list-inline">
+  
+  <li><i class="fe fe-smile-alt"></i> <span id="busuanzi_value_site_uv"></span></li>
+  
+  <li><i class="fe fe-bookmark"></i> <span id="busuanzi_value_page_pv"></span></li>
+  
+</ul>
+    </div>
+    <ul class="list-inline">
+      <li>2osc - 合成器与声音博客 &copy; 2022</li>
+      
+      <li>Powered by <a href="http://hexo.io/" target="_blank">Hexo</a></li>
+      <li>theme  <a target="_blank" rel="noopener" href="https://github.com/zhwangart/hexo-theme-ocean">Ocean</a></li>
+    </ul>
+  </div>
+</footer>
+  </main>
+  <aside class="sidebar">
+    <button class="navbar-toggle"></button>
+<nav class="navbar">
+  
+  <div class="logo">
+    <a href="/"><img src="/images/hexo.svg" alt="2osc - 合成器与声音博客"></a>
+  </div>
+  
+  <ul class="nav nav-main">
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/">主页</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/archives">归档</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/gallery">相册</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link" href="/about">关于</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-item-link nav-item-search" title="搜索">
+        <i class="fe fe-search"></i>
+        搜索
+      </a>
+    </li>
+  </ul>
+</nav>
+<nav class="navbar navbar-bottom">
+  <ul class="nav">
+    <li class="nav-item">
+      <div class="totop" id="totop">
+  <i class="fe fe-rocket"></i>
+</div>
+    </li>
+    <li class="nav-item">
+      
+    </li>
+  </ul>
+</nav>
+<div class="search-form-wrap">
+  <div class="local-search local-search-plugin">
+  <input type="search" id="local-search-input" class="local-search-input" placeholder="Search...">
+  <div id="local-search-result" class="local-search-result"></div>
+</div>
+</div>
+  </aside>
+  
+<script src="/js/jquery-2.0.3.min.js"></script>
+
+
+<script src="/js/jquery.justifiedGallery.min.js"></script>
+
+
+<script src="/js/lazyload.min.js"></script>
+
+
+<script src="/js/busuanzi-2.3.pure.min.js"></script>
+
+
+
+<script src="/fancybox/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/js/copybtn.js"></script>
+
+
+
+
+
+<script src="/js/tocbot.min.js"></script>
+
+<script>
+  // Tocbot_v4.7.0  http://tscanlin.github.io/tocbot/
+  tocbot.init({
+    tocSelector: '.tocbot',
+    contentSelector: '.article-entry',
+    headingSelector: 'h1, h2, h3, h4, h5, h6',
+    hasInnerContainers: true,
+    scrollSmooth: true,
+    positionFixedSelector: '.tocbot',
+    positionFixedClass: 'is-position-fixed',
+    fixedSidebarOffset: 'auto',
+  });
+</script>
+
+
+
+<script src="/js/ocean.js"></script>
+
+</body>
+
+</html>
