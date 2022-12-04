@@ -32,36 +32,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Minimoog Model D</title>
-    <url>/2021/02/08/Minimoog-Model-D/</url>
-    <content><![CDATA[<h1 id="Minimoog-Model-D"><a href="#Minimoog-Model-D" class="headerlink" title="Minimoog Model D"></a>Minimoog Model D</h1><h2 id="一个产品"><a href="#一个产品" class="headerlink" title="一个产品"></a>一个产品</h2><h2 id="一种声音"><a href="#一种声音" class="headerlink" title="一种声音"></a>一种声音</h2><h2 id="一个世界"><a href="#一个世界" class="headerlink" title="一个世界"></a>一个世界</h2><p><img src="/images/3dAoIleW9j4HxDt.jpg"></p>
-<p><img src="/images/Ah2yUpXk7CFqsut.jpg"></p>
-<p><strong>生存年份</strong>：1970-1981</p>
-<p>​                    2016-2017（复刻）</p>
-<p><strong>产量</strong>：约13000台</p>
-<p><strong>发售价格</strong>：约$1500（1970）、$3749（2016）</p>
-<p><strong>类型</strong>：减法模拟合成器</p>
-<p><strong>架构</strong>：3VCO(VCO3可运行在低频率模式), 噪声发生器(白/粉), 1VCF(Ladder, 24dB/OCT), 2ENV(ADS)</p>
-<p><strong>接口</strong>: 音量、滤波器、振荡器、外置调制源控制输入(CV)、音频输入(兼作V-Trig)</p>
-<p>​          V-Trig输出、音高调制输出</p>
-<p>复刻版新增：MIDI IN/THRU/OUT、力度输出、触后输出</p>
-<span id="more"></span>
-
-<p><img src="/images/1tDKxe8NVoZ7U6v.jpg"></p>
-<p><img src="/images/TlAML8QEUwdmfur.jpg"></p>
-<p>​         </p>
-<p><img src="/images/leamRhyXYCKIJTb.jpg"></p>
-<p>硬件复刻: Minimax ASB(DSP)、Roland SE-02(Analog)、Behringer Model D(Analog)</p>
-<p>软件复刻: Diva、Legend、Freemoog、Mini V、Monark、Mini beasts、Minimonsta、SampleMoog、Model E、Model 72等</p>
-<hr>
-]]></content>
-      <tags>
-        <tag>云收藏</tag>
-        <tag>器材党</tag>
-        <tag>模拟合成器</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>披着羊皮的狼——罗兰 alpha Juno</title>
     <url>/2021/08/09/Juno/</url>
     <content><![CDATA[<p><img src="/images/Alpha-Juno-1.jpg" alt="Alpha-Juno-1"></p>
@@ -152,27 +122,33 @@
       </tags>
   </entry>
   <entry>
-    <title>Softube Model 84太好听了吧</title>
-    <url>/2021/07/26/Softube-Model-84%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86%E5%90%A7/</url>
-    <content><![CDATA[<p><img src="/images/Softube-Model-84-2.jpg" alt="Softube-Model-84-2"></p>
-<p>Softube开始做合成器建模的时候我是很激动的，毕竟凭Softube的建模实力，做这些轻而易举，当然，合成器这玩意不比各种效果器简单，特别是音色上的差异很容易被听出来，这次Softube的Model84（建模自Juno-106）着实让我吃了一惊。</p>
+    <title>Minimoog Model D</title>
+    <url>/2021/02/08/Minimoog-Model-D/</url>
+    <content><![CDATA[<h1 id="Minimoog-Model-D"><a href="#Minimoog-Model-D" class="headerlink" title="Minimoog Model D"></a>Minimoog Model D</h1><h2 id="一个产品"><a href="#一个产品" class="headerlink" title="一个产品"></a>一个产品</h2><h2 id="一种声音"><a href="#一种声音" class="headerlink" title="一种声音"></a>一种声音</h2><h2 id="一个世界"><a href="#一个世界" class="headerlink" title="一个世界"></a>一个世界</h2><p><img src="/images/3dAoIleW9j4HxDt.jpg"></p>
+<p><img src="/images/Ah2yUpXk7CFqsut.jpg"></p>
+<p><strong>生存年份</strong>：1970-1981</p>
+<p>​                    2016-2017（复刻）</p>
+<p><strong>产量</strong>：约13000台</p>
+<p><strong>发售价格</strong>：约$1500（1970）、$3749（2016）</p>
+<p><strong>类型</strong>：减法模拟合成器</p>
+<p><strong>架构</strong>：3VCO(VCO3可运行在低频率模式), 噪声发生器(白/粉), 1VCF(Ladder, 24dB/OCT), 2ENV(ADS)</p>
+<p><strong>接口</strong>: 音量、滤波器、振荡器、外置调制源控制输入(CV)、音频输入(兼作V-Trig)</p>
+<p>​          V-Trig输出、音高调制输出</p>
+<p>复刻版新增：MIDI IN/THRU/OUT、力度输出、触后输出</p>
 <span id="more"></span>
 
-<p>首先，这个界面可以算是第一梯队，虽然我个人对这种故意做旧的外观并不来电（那两个发黄的琴键有点要命），不过就拟真性来看，Softube做的相当不错。并且，界面没有像罗兰一样一比一地还原真琴，而是像TAL那样，为适应屏幕做了调整，推子和旋钮操作起来十分精准顺滑，手感颇佳，边弹边调参数也能感觉到声音是自然地在变化。</p>
-<p><img src="/images/Model184-1.png" alt="Model-84"></p>
-<p>当然，对于一款合成器来说，没有什么比声音更重要的了，当我玩起这插件的瞬间，我就感觉到一种前所未有的真实感，高频的颗粒感，模拟合成器特有的贴脸感，以及宽广而有做作的合唱。这是我第一次从软件合成器上得到如此多的震撼（我知道我看着很像收了厂家钱hhh）</p>
-<p>下面是一段实时调整音色的Demo，相信你也会像我一样惊讶！</p>
-<p><a href="https://www.bilibili.com/audio/au2448848?type=1?type=6">https://www.bilibili.com/audio/au2448848?type=1?type=6</a></p>
-<p>当然，它也不是没有缺点，倒不如说，Juno-106也有缺点，因为这个插件实在是太还原了。比如说你不能用包络调制PWM，高通滤波器也不是连续的，就连复音数都被死死限制在了6。好在你仍然有力度和触后的控制选项，但这也没法改变这是一台及其受限的合成器的事实。</p>
-<p>如果你很喜欢复古的合成器声音，或者更进一步地说——喜欢Juno-106的声音，那么可一定不要错过Model 84，它已经成了我最喜欢的软件合成器之一了。</p>
-<p>售价：99$（折扣）</p>
-<p>官网：<a href="https://www.softube.com/model-84-polyphonic-synthesizer">https://www.softube.com/model-84-polyphonic-synthesizer</a></p>
-<p>可全功能试用20天</p>
+<p><img src="/images/1tDKxe8NVoZ7U6v.jpg"></p>
+<p><img src="/images/TlAML8QEUwdmfur.jpg"></p>
+<p>​         </p>
+<p><img src="/images/leamRhyXYCKIJTb.jpg"></p>
+<p>硬件复刻: Minimax ASB(DSP)、Roland SE-02(Analog)、Behringer Model D(Analog)</p>
+<p>软件复刻: Diva、Legend、Freemoog、Mini V、Monark、Mini beasts、Minimonsta、SampleMoog、Model E、Model 72等</p>
+<hr>
 ]]></content>
       <tags>
-        <tag>罗兰</tag>
-        <tag>插件</tag>
-        <tag>Softube</tag>
+        <tag>云收藏</tag>
+        <tag>器材党</tag>
+        <tag>模拟合成器</tag>
       </tags>
   </entry>
   <entry>
@@ -252,6 +228,30 @@
 ]]></content>
       <tags>
         <tag>人物</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Softube Model 84太好听了吧</title>
+    <url>/2021/07/26/Softube-Model-84%E5%A4%AA%E5%A5%BD%E5%90%AC%E4%BA%86%E5%90%A7/</url>
+    <content><![CDATA[<p><img src="/images/Softube-Model-84-2.jpg" alt="Softube-Model-84-2"></p>
+<p>Softube开始做合成器建模的时候我是很激动的，毕竟凭Softube的建模实力，做这些轻而易举，当然，合成器这玩意不比各种效果器简单，特别是音色上的差异很容易被听出来，这次Softube的Model84（建模自Juno-106）着实让我吃了一惊。</p>
+<span id="more"></span>
+
+<p>首先，这个界面可以算是第一梯队，虽然我个人对这种故意做旧的外观并不来电（那两个发黄的琴键有点要命），不过就拟真性来看，Softube做的相当不错。并且，界面没有像罗兰一样一比一地还原真琴，而是像TAL那样，为适应屏幕做了调整，推子和旋钮操作起来十分精准顺滑，手感颇佳，边弹边调参数也能感觉到声音是自然地在变化。</p>
+<p><img src="/images/Model184-1.png" alt="Model-84"></p>
+<p>当然，对于一款合成器来说，没有什么比声音更重要的了，当我玩起这插件的瞬间，我就感觉到一种前所未有的真实感，高频的颗粒感，模拟合成器特有的贴脸感，以及宽广而有做作的合唱。这是我第一次从软件合成器上得到如此多的震撼（我知道我看着很像收了厂家钱hhh）</p>
+<p>下面是一段实时调整音色的Demo，相信你也会像我一样惊讶！</p>
+<p><a href="https://www.bilibili.com/audio/au2448848?type=1?type=6">https://www.bilibili.com/audio/au2448848?type=1?type=6</a></p>
+<p>当然，它也不是没有缺点，倒不如说，Juno-106也有缺点，因为这个插件实在是太还原了。比如说你不能用包络调制PWM，高通滤波器也不是连续的，就连复音数都被死死限制在了6。好在你仍然有力度和触后的控制选项，但这也没法改变这是一台及其受限的合成器的事实。</p>
+<p>如果你很喜欢复古的合成器声音，或者更进一步地说——喜欢Juno-106的声音，那么可一定不要错过Model 84，它已经成了我最喜欢的软件合成器之一了。</p>
+<p>售价：99$（折扣）</p>
+<p>官网：<a href="https://www.softube.com/model-84-polyphonic-synthesizer">https://www.softube.com/model-84-polyphonic-synthesizer</a></p>
+<p>可全功能试用20天</p>
+]]></content>
+      <tags>
+        <tag>罗兰</tag>
+        <tag>插件</tag>
+        <tag>Softube</tag>
       </tags>
   </entry>
   <entry>
@@ -349,22 +349,6 @@
       </tags>
   </entry>
   <entry>
-    <title>免费又好用的OB-Xd</title>
-    <url>/2021/06/02/%E5%85%8D%E8%B4%B9%E5%8F%88%E5%A5%BD%E7%94%A8%E7%9A%84OB-Xd/</url>
-    <content><![CDATA[<p>Oberheim和Sequential构成了80年代初的合成器声音，在Prophet-5大获成功后Oberheim推出了OB-X作为对策。OB-X是Oberheim的第一款可编程复音合成器，也是非常成功的一款产品，不过在1980年，也就是OB-X发布一年后，OB-Xa取代了它的位置。OB-Xa也奠定了Oberheim之后的设计风格——布满蓝色水平线的黑色面板和镂空的白色型号标识。OB-Xa是Oberheim的巅峰产品之一，它的振荡器非常丰满和厚实，而滤波器很是丝滑，与Prophet-5正好相反，Prophet-5的振荡器十分纯净，但是滤波器充满个性。</p>
-<p>Oberheim有着自己的声音，也是最为独特的一类风格，如果你想弹《Jump》，那么就一定需要一台OB系列合成器，不过无论是OB-Xa还是现产的OB-6都很贵，本文就在此推荐一款十分优秀的OB-Xa模拟插件——DiscoDSP的OB-Xd。</p>
-<p>OB-Xd来自于一个社区制作的OB-Xa插件，后由Dis从DSP负责后续开发。OB-Xd不仅保留了OB-X系列的所有功能，还加上了一些独特的设置，同时面板也做到了极为简洁美观，至于声音，这是我用过最好的VA合成器软件之一，相比Arturia的OB-Xa，我觉得更好听，也更好用。</p>
-<p>不用多说了，你可以在<a href="https://www.discodsp.com/obxd/">DiscoDSP的网站</a>内下载这个插件，个人使用免费，如果需要AAX格式或者是商业使用，则可以花49刀买一份授权。</p>
-<p>下方是我做的一张简单的面板说明图，供快速使用参考～</p>
-<p><img src="/images/OB-Xd%E8%AF%B4%E6%98%8E%E5%89%AF%E6%9C%AC.jpg" alt="OB-Xd说明副本"></p>
-]]></content>
-      <tags>
-        <tag>插件</tag>
-        <tag>推荐</tag>
-        <tag>Oberheim</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>人见人爱的Juno</title>
     <url>/2021/03/06/%E4%BA%BA%E8%A7%81%E4%BA%BA%E7%88%B1%E7%9A%84Juno/</url>
     <content><![CDATA[<h3 id="带领孩子看到光明的神祇"><a href="#带领孩子看到光明的神祇" class="headerlink" title="带领孩子看到光明的神祇"></a>带领孩子看到光明的神祇</h3><p>也许罗兰的Juno就是这么的温柔吧，当第一次听到Juno-106时，我便被迷住了，我第一次意识到合成器还能如此般的珠圆玉润，清澈通透，当时的我，就像看到了光明的孩子…</p>
@@ -384,6 +368,22 @@
       <tags>
         <tag>罗兰</tag>
         <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>免费又好用的OB-Xd</title>
+    <url>/2021/06/02/%E5%85%8D%E8%B4%B9%E5%8F%88%E5%A5%BD%E7%94%A8%E7%9A%84OB-Xd/</url>
+    <content><![CDATA[<p>Oberheim和Sequential构成了80年代初的合成器声音，在Prophet-5大获成功后Oberheim推出了OB-X作为对策。OB-X是Oberheim的第一款可编程复音合成器，也是非常成功的一款产品，不过在1980年，也就是OB-X发布一年后，OB-Xa取代了它的位置。OB-Xa也奠定了Oberheim之后的设计风格——布满蓝色水平线的黑色面板和镂空的白色型号标识。OB-Xa是Oberheim的巅峰产品之一，它的振荡器非常丰满和厚实，而滤波器很是丝滑，与Prophet-5正好相反，Prophet-5的振荡器十分纯净，但是滤波器充满个性。</p>
+<p>Oberheim有着自己的声音，也是最为独特的一类风格，如果你想弹《Jump》，那么就一定需要一台OB系列合成器，不过无论是OB-Xa还是现产的OB-6都很贵，本文就在此推荐一款十分优秀的OB-Xa模拟插件——DiscoDSP的OB-Xd。</p>
+<p>OB-Xd来自于一个社区制作的OB-Xa插件，后由Dis从DSP负责后续开发。OB-Xd不仅保留了OB-X系列的所有功能，还加上了一些独特的设置，同时面板也做到了极为简洁美观，至于声音，这是我用过最好的VA合成器软件之一，相比Arturia的OB-Xa，我觉得更好听，也更好用。</p>
+<p>不用多说了，你可以在<a href="https://www.discodsp.com/obxd/">DiscoDSP的网站</a>内下载这个插件，个人使用免费，如果需要AAX格式或者是商业使用，则可以花49刀买一份授权。</p>
+<p>下方是我做的一张简单的面板说明图，供快速使用参考～</p>
+<p><img src="/images/OB-Xd%E8%AF%B4%E6%98%8E%E5%89%AF%E6%9C%AC.jpg" alt="OB-Xd说明副本"></p>
+]]></content>
+      <tags>
+        <tag>插件</tag>
+        <tag>推荐</tag>
+        <tag>Oberheim</tag>
       </tags>
   </entry>
   <entry>
@@ -484,6 +484,54 @@
       </tags>
   </entry>
   <entry>
+    <title>奇葩的罗兰SH系列命名</title>
+    <url>/2021/02/25/%E5%A5%87%E8%91%A9%E7%9A%84%E7%BD%97%E5%85%B0SH%E7%B3%BB%E5%88%97%E5%91%BD%E5%90%8D/</url>
+    <content><![CDATA[<p><img src="https://i.loli.net/2021/02/25/T1F5ARQJxhVDnP9.png" alt="SH-101 logo.png"></p>
+<p>合成器这个词在日语里音译为シンセサイザー，罗马音写作Shinsesaizā，这就是罗兰SH合成器里“SH”的由来（看来雅马哈的SY是英语派系的）。SH系列不乏SH-101这样的名机，但是…对于众多玩家来说，SH系列的命名那叫一个奇葩，堪称合成器界的Xbox，看来有必要带大家捋一捋这奇葩的系列了。</p>
+<span id="more"></span>
+
+<h3 id="1973-SH-1000"><a href="#1973-SH-1000" class="headerlink" title="1973 SH-1000"></a><strong>1973 SH-1000</strong></h3><p><img src="https://i.loli.net/2021/02/25/7CjERY5Agboxdh1.jpg" alt="SH 1000.jpg"></p>
+<p>很好的开始，不是吗？从SH-1000到SH-9999一共可以出8999款产品呢！<del>妈妈再也不用担心我命名困难啦</del></p>
+<h3 id="1974-SH-2000"><a href="#1974-SH-2000" class="headerlink" title="1974 SH-2000"></a><strong>1974 SH-2000</strong></h3><p><img src="https://i.loli.net/2021/02/25/PSHIAExq2hY819Q.jpg" alt="roland-sh-2000-872.jpg"></p>
+<p>很标准的第二代命名，我相信没有人会被这种命名顺序弄糊涂。</p>
+<h3 id="1974-SH-3"><a href="#1974-SH-3" class="headerlink" title="1974 SH-3"></a><strong>1974 SH-3</strong></h3><p><img src="https://i.loli.net/2021/02/25/DqU42GrHd8FlNiS.jpg" alt="SH 3.jpg"></p>
+<p>等下，不是应该叫SH-3000吗？？你说名字太长了不好记？好吧，与时俱进嘛。</p>
+<h3 id="1974-SH-3a"><a href="#1974-SH-3a" class="headerlink" title="1974 SH-3a"></a><strong>1974 SH-3a</strong></h3><p><img src="https://i.loli.net/2021/02/25/Pb6YUVEzyNARXop.jpg" alt="SH 3a.jpeg"></p>
+<p>罗兰改了滤波器设计，名字后面加了个a，🉑️。</p>
+<h3 id="1975-SH-5"><a href="#1975-SH-5" class="headerlink" title="1975 SH-5"></a><strong>1975 SH-5</strong></h3><p><img src="https://i.loli.net/2021/02/25/fujEJB1Dq4k6phL.jpg" alt="SH-5.jpg"></p>
+<p>Wait，你们是不是漏了个叫SH-4的东西？</p>
+<h3 id="1978-SH-7"><a href="#1978-SH-7" class="headerlink" title="1978 SH-7"></a><strong>1978 SH-7</strong></h3><p><img src="https://i.loli.net/2021/02/25/aWAyZPliU8Igps2.jpg" alt="SH-7.jpeg"></p>
+<p>所以说罗兰想像英特尔那样采用3-5-7来标注产品线？行，再给你一次机会….</p>
+<h3 id="1978-SH-1"><a href="#1978-SH-1" class="headerlink" title="1978 SH-1"></a><strong>1978 SH-1</strong></h3><p><img src="https://i.loli.net/2021/02/25/XOzBH3n25eKJYbM.jpg" alt="SH-1.jpeg"></p>
+<p>好嘛，不知道该说什么了，这是要从头再来的节奏？早干啥去了？</p>
+<h3 id="1978-SH-09"><a href="#1978-SH-09" class="headerlink" title="1978 SH-09"></a><strong>1978 SH-09</strong></h3><p><img src="https://i.loli.net/2021/02/25/kY2q6jInAQwVfBm.jpg" alt="SH-09.jpeg"></p>
+<p>鉴定完毕，没有10年脑淤血想不出这个名字，下一个</p>
+<h3 id="1979-SH-2"><a href="#1979-SH-2" class="headerlink" title="1979 SH-2"></a><strong>1979 SH-2</strong></h3><p><img src="https://i.loli.net/2021/02/25/1nc9eOmv3NlZyG6.jpg" alt="roland-sh-2.jpg"></p>
+<p>好家伙，下一个是不是就该叫SH-4了？讲道理大部分人都会以为这货是SH系列的第二款。</p>
+<h3 id="1982-SH-101"><a href="#1982-SH-101" class="headerlink" title="1982 SH-101"></a><strong>1982 SH-101</strong></h3><p><img src="https://i.loli.net/2021/02/25/vVaTh7fZnbzXo6P.png" alt="SH-101.png"></p>
+<p>虽然各位应该挺熟悉这个名字的，但是我依然觉得罗兰的命名部出了点问题。如果说向波音学习？那下一款产品最好叫SH-202.</p>
+<h3 id="1983-2002-就这？？"><a href="#1983-2002-就这？？" class="headerlink" title="1983-2002 就这？？"></a><strong>1983-2002</strong> <strong>就这？？</strong></h3><hr>
+<p>没错，在这近20年里SH系列没有出过新产品，大部分人翻历史翻到这里大概会以为SH系列没了吧（就这命名混乱度，没了活该）</p>
+<h3 id="2002-SH-32"><a href="#2002-SH-32" class="headerlink" title="2002 SH-32"></a><strong>2002 SH-32</strong></h3><p><img src="https://i.loli.net/2021/02/25/CWb3J7s4GByOND8.jpg" alt="SH-32.jpeg"></p>
+<p>鉴定完毕，没有30年脑淤血想不出这个名字，下一个</p>
+<h3 id="2006-SH-201"><a href="#2006-SH-201" class="headerlink" title="2006 SH-201"></a><strong>2006 SH-201</strong></h3><p><img src="https://i.loli.net/2021/02/25/oA6czIQb4rt52qg.jpg" alt="SH-201.jpg"></p>
+<p>不得不说我挺佩服做命名的人的，这是超时空产品线吗</p>
+<h3 id="2010-SH-01"><a href="#2010-SH-01" class="headerlink" title="2010 SH-01"></a><strong>2010 SH-01</strong></h3><p><img src="https://i.loli.net/2021/02/25/3cYtEmkxqN8u6sA.jpg" alt="sh-01.jpg"></p>
+<p>问题来了，它和SH-1、SH-101以及SH-09有什么关系？</p>
+<p>没有关系！这就是个简单的数字合成器！<strong>Surprise Motherfxxker！</strong></p>
+<h3 id="2017-SH-01a"><a href="#2017-SH-01a" class="headerlink" title="2017 SH-01a"></a><strong>2017 SH-01a</strong></h3><p><img src="https://i.loli.net/2021/02/25/KQZJXAsHM9pDEuO.jpg" alt="sh-01a_K25m.jpg"></p>
+<p>相信你也猜到了，这个SH-01a和SH-01同样没有任何关系，只是为了符合Boutique系列命名规则又为了避免重复才采取的名字，这是目前SH最新的产品。</p>
+<hr>
+<p>这次就写到这里了，希望SH系列好自为之，好好反思，不要再祸害人了哈哈哈哈哈。</p>
+<p>（灵感和部分资料来自于<a href="https://www.youtube.com/watch?v=XHUxR1S6r2s%EF%BC%89">https://www.youtube.com/watch?v=XHUxR1S6r2s）</a></p>
+]]></content>
+      <tags>
+        <tag>器材党</tag>
+        <tag>罗兰</tag>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>合成器有哪几种？</title>
     <url>/2021/02/25/%E5%90%88%E6%88%90%E5%99%A8%E6%9C%89%E5%93%AA%E5%87%A0%E7%A7%8D%EF%BC%9F/</url>
     <content><![CDATA[<p>工欲善其事，必先利其器，合成器进化了这么多年分类很多，很多人上来问选那种？模拟还是数字好？为什么模拟这么贵？今天我们就来扒一扒合成器的底。</p>
@@ -537,54 +585,6 @@
       <tags>
         <tag>科普</tag>
         <tag>新手</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>奇葩的罗兰SH系列命名</title>
-    <url>/2021/02/25/%E5%A5%87%E8%91%A9%E7%9A%84%E7%BD%97%E5%85%B0SH%E7%B3%BB%E5%88%97%E5%91%BD%E5%90%8D/</url>
-    <content><![CDATA[<p><img src="https://i.loli.net/2021/02/25/T1F5ARQJxhVDnP9.png" alt="SH-101 logo.png"></p>
-<p>合成器这个词在日语里音译为シンセサイザー，罗马音写作Shinsesaizā，这就是罗兰SH合成器里“SH”的由来（看来雅马哈的SY是英语派系的）。SH系列不乏SH-101这样的名机，但是…对于众多玩家来说，SH系列的命名那叫一个奇葩，堪称合成器界的Xbox，看来有必要带大家捋一捋这奇葩的系列了。</p>
-<span id="more"></span>
-
-<h3 id="1973-SH-1000"><a href="#1973-SH-1000" class="headerlink" title="1973 SH-1000"></a><strong>1973 SH-1000</strong></h3><p><img src="https://i.loli.net/2021/02/25/7CjERY5Agboxdh1.jpg" alt="SH 1000.jpg"></p>
-<p>很好的开始，不是吗？从SH-1000到SH-9999一共可以出8999款产品呢！<del>妈妈再也不用担心我命名困难啦</del></p>
-<h3 id="1974-SH-2000"><a href="#1974-SH-2000" class="headerlink" title="1974 SH-2000"></a><strong>1974 SH-2000</strong></h3><p><img src="https://i.loli.net/2021/02/25/PSHIAExq2hY819Q.jpg" alt="roland-sh-2000-872.jpg"></p>
-<p>很标准的第二代命名，我相信没有人会被这种命名顺序弄糊涂。</p>
-<h3 id="1974-SH-3"><a href="#1974-SH-3" class="headerlink" title="1974 SH-3"></a><strong>1974 SH-3</strong></h3><p><img src="https://i.loli.net/2021/02/25/DqU42GrHd8FlNiS.jpg" alt="SH 3.jpg"></p>
-<p>等下，不是应该叫SH-3000吗？？你说名字太长了不好记？好吧，与时俱进嘛。</p>
-<h3 id="1974-SH-3a"><a href="#1974-SH-3a" class="headerlink" title="1974 SH-3a"></a><strong>1974 SH-3a</strong></h3><p><img src="https://i.loli.net/2021/02/25/Pb6YUVEzyNARXop.jpg" alt="SH 3a.jpeg"></p>
-<p>罗兰改了滤波器设计，名字后面加了个a，🉑️。</p>
-<h3 id="1975-SH-5"><a href="#1975-SH-5" class="headerlink" title="1975 SH-5"></a><strong>1975 SH-5</strong></h3><p><img src="https://i.loli.net/2021/02/25/fujEJB1Dq4k6phL.jpg" alt="SH-5.jpg"></p>
-<p>Wait，你们是不是漏了个叫SH-4的东西？</p>
-<h3 id="1978-SH-7"><a href="#1978-SH-7" class="headerlink" title="1978 SH-7"></a><strong>1978 SH-7</strong></h3><p><img src="https://i.loli.net/2021/02/25/aWAyZPliU8Igps2.jpg" alt="SH-7.jpeg"></p>
-<p>所以说罗兰想像英特尔那样采用3-5-7来标注产品线？行，再给你一次机会….</p>
-<h3 id="1978-SH-1"><a href="#1978-SH-1" class="headerlink" title="1978 SH-1"></a><strong>1978 SH-1</strong></h3><p><img src="https://i.loli.net/2021/02/25/XOzBH3n25eKJYbM.jpg" alt="SH-1.jpeg"></p>
-<p>好嘛，不知道该说什么了，这是要从头再来的节奏？早干啥去了？</p>
-<h3 id="1978-SH-09"><a href="#1978-SH-09" class="headerlink" title="1978 SH-09"></a><strong>1978 SH-09</strong></h3><p><img src="https://i.loli.net/2021/02/25/kY2q6jInAQwVfBm.jpg" alt="SH-09.jpeg"></p>
-<p>鉴定完毕，没有10年脑淤血想不出这个名字，下一个</p>
-<h3 id="1979-SH-2"><a href="#1979-SH-2" class="headerlink" title="1979 SH-2"></a><strong>1979 SH-2</strong></h3><p><img src="https://i.loli.net/2021/02/25/1nc9eOmv3NlZyG6.jpg" alt="roland-sh-2.jpg"></p>
-<p>好家伙，下一个是不是就该叫SH-4了？讲道理大部分人都会以为这货是SH系列的第二款。</p>
-<h3 id="1982-SH-101"><a href="#1982-SH-101" class="headerlink" title="1982 SH-101"></a><strong>1982 SH-101</strong></h3><p><img src="https://i.loli.net/2021/02/25/vVaTh7fZnbzXo6P.png" alt="SH-101.png"></p>
-<p>虽然各位应该挺熟悉这个名字的，但是我依然觉得罗兰的命名部出了点问题。如果说向波音学习？那下一款产品最好叫SH-202.</p>
-<h3 id="1983-2002-就这？？"><a href="#1983-2002-就这？？" class="headerlink" title="1983-2002 就这？？"></a><strong>1983-2002</strong> <strong>就这？？</strong></h3><hr>
-<p>没错，在这近20年里SH系列没有出过新产品，大部分人翻历史翻到这里大概会以为SH系列没了吧（就这命名混乱度，没了活该）</p>
-<h3 id="2002-SH-32"><a href="#2002-SH-32" class="headerlink" title="2002 SH-32"></a><strong>2002 SH-32</strong></h3><p><img src="https://i.loli.net/2021/02/25/CWb3J7s4GByOND8.jpg" alt="SH-32.jpeg"></p>
-<p>鉴定完毕，没有30年脑淤血想不出这个名字，下一个</p>
-<h3 id="2006-SH-201"><a href="#2006-SH-201" class="headerlink" title="2006 SH-201"></a><strong>2006 SH-201</strong></h3><p><img src="https://i.loli.net/2021/02/25/oA6czIQb4rt52qg.jpg" alt="SH-201.jpg"></p>
-<p>不得不说我挺佩服做命名的人的，这是超时空产品线吗</p>
-<h3 id="2010-SH-01"><a href="#2010-SH-01" class="headerlink" title="2010 SH-01"></a><strong>2010 SH-01</strong></h3><p><img src="https://i.loli.net/2021/02/25/3cYtEmkxqN8u6sA.jpg" alt="sh-01.jpg"></p>
-<p>问题来了，它和SH-1、SH-101以及SH-09有什么关系？</p>
-<p>没有关系！这就是个简单的数字合成器！<strong>Surprise Motherfxxker！</strong></p>
-<h3 id="2017-SH-01a"><a href="#2017-SH-01a" class="headerlink" title="2017 SH-01a"></a><strong>2017 SH-01a</strong></h3><p><img src="https://i.loli.net/2021/02/25/KQZJXAsHM9pDEuO.jpg" alt="sh-01a_K25m.jpg"></p>
-<p>相信你也猜到了，这个SH-01a和SH-01同样没有任何关系，只是为了符合Boutique系列命名规则又为了避免重复才采取的名字，这是目前SH最新的产品。</p>
-<hr>
-<p>这次就写到这里了，希望SH系列好自为之，好好反思，不要再祸害人了哈哈哈哈哈。</p>
-<p>（灵感和部分资料来自于<a href="https://www.youtube.com/watch?v=XHUxR1S6r2s%EF%BC%89">https://www.youtube.com/watch?v=XHUxR1S6r2s）</a></p>
-]]></content>
-      <tags>
-        <tag>器材党</tag>
-        <tag>罗兰</tag>
-        <tag>杂谈</tag>
       </tags>
   </entry>
   <entry>
@@ -698,11 +698,12 @@
       </tags>
   </entry>
   <entry>
-    <title>微动圈，巨不同宁梵RA10测评</title>
+    <title>微动圈，巨不同——宁梵RA10测评</title>
     <url>/2022/12/04/%E5%BE%AE%E5%8A%A8%E5%9C%88%EF%BC%8C%E5%B7%A8%E4%B8%8D%E5%90%8C%E5%AE%81%E6%A2%B5RA10%E6%B5%8B%E8%AF%84/</url>
     <content><![CDATA[<p>10月底，宁梵悄悄地发布了一款意料之外的产品，RA10，这款耳机无论是外形还是声音设计理念上都与以往的产品大不相同。而我在使用RA10的时间里，也得到了很独特的体验，事实上，这款耳机的侧重点并不是声音，而是佩戴。</p>
 <p>那么宁梵首款微动圈耳机的耳机究竟表现如何呢？</p>
 <p><img src="%5Cimages%5CDSCF3868-1670138903177.jpg" alt="DSCF3868"></p>
+<span id="more"></span>
 <h2 id="开箱-amp-外观"><a href="#开箱-amp-外观" class="headerlink" title="开箱&amp;外观"></a>开箱&amp;外观</h2><p><img src="%5Cimages%5CDSCF3871.jpg" alt="DSCF3871"></p>
 <p><img src="%5Cimages%5CDSCF3869.jpg" alt="DSCF3869"></p>
 <p>RA10采用了一个相当迷你的包装盒，设计风格相当简约，外包装的主题色也与耳机配色一致，侧面写着一个大大的“A”。</p>
@@ -817,6 +818,15 @@
       </tags>
   </entry>
   <entry>
+    <title>数字合成器VS模拟合成器</title>
+    <url>/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/</url>
+    <content><![CDATA[<p>　　合成器很难选择是怎么回事呢？合成器相信大家都很熟悉，但是合成器很难选择是怎么回事呢，下面就让小编带大家一起了解吧。<br>　　合成器很难选择，其实就是数字和模拟合成器各有优点，大家可能会很惊讶合成器怎么会很难选择呢？但事实就是这样，小编也感到非常惊讶。<br>　　这就是关于合成器很难选择的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p>
+]]></content>
+      <tags>
+        <tag>器材党</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>我对于合成器复刻的看法</title>
     <url>/2021/05/11/%E6%88%91%E5%AF%B9%E4%BA%8E%E5%90%88%E6%88%90%E5%99%A8%E5%A4%8D%E5%88%BB%E7%9A%84%E7%9C%8B%E6%B3%95/</url>
     <content><![CDATA[<p>模拟合成器这东西诞生也有半个世纪了，从一开始的先锋小众到现在的….额….还是小众….总之中间经历了种种大起大落。从产量一万多台的Minimoog到30万台+的DX7，经典的合成器层出不穷。然而再经典，再成功的产品也会迎来停产的命运，特别是那些产量少而难以保存到现在的那些，如何才能在今天重新得到它们的声音呢？</p>
@@ -833,15 +843,6 @@
 ]]></content>
       <tags>
         <tag>杂谈</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>数字合成器VS模拟合成器</title>
-    <url>/2021/02/06/%E6%95%B0%E5%AD%97%E5%90%88%E6%88%90%E5%99%A8VS%E6%A8%A1%E6%8B%9F%E5%90%88%E6%88%90%E5%99%A8/</url>
-    <content><![CDATA[<p>　　合成器很难选择是怎么回事呢？合成器相信大家都很熟悉，但是合成器很难选择是怎么回事呢，下面就让小编带大家一起了解吧。<br>　　合成器很难选择，其实就是数字和模拟合成器各有优点，大家可能会很惊讶合成器怎么会很难选择呢？但事实就是这样，小编也感到非常惊讶。<br>　　这就是关于合成器很难选择的事情了，大家有什么想法呢，欢迎在评论区告诉小编一起讨论哦！</p>
-]]></content>
-      <tags>
-        <tag>器材党</tag>
       </tags>
   </entry>
   <entry>
@@ -944,47 +945,6 @@
       </tags>
   </entry>
   <entry>
-    <title>科普：什么是弦乐合成器？</title>
-    <url>/2021/08/31/%E7%A7%91%E6%99%AE%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%A6%E4%B9%90%E5%90%88%E6%88%90%E5%99%A8%EF%BC%9F/</url>
-    <content><![CDATA[<p>虽然现在已经几乎绝迹，但是合成器玩家都会知道，在70-80年代间，曾流行过一个十分独特的合成器门类：弦乐合成器。</p>
-<img src="/images/arp-solina-string-ensemble-1018946.jpg" alt="arp-solina-string-ensemble-1018946" style="zoom: 50%;" />
-
-<span id="more"></span>
-
-<h2 id="短暂而光辉的历史"><a href="#短暂而光辉的历史" class="headerlink" title="短暂而光辉的历史"></a><strong>短暂而光辉的历史</strong></h2><p>弦乐合成器是合成器早期时代的产物，与其说是合成器，它们更像是模拟合成器与电子风琴诞下的私生子，在那个合成器及其昂贵的年代里，弦乐合成器成了丰富和弦伴奏的最佳选择。催生这种产品的很大一部分原因也是新兴的合成器市场对于复音合成器的需求，弦乐合成器很好地填补了这一空白，而到了80年代后，复音合成器如雨后春笋般出现，从高级的Prophet-5到入门的Juno-6，再到杀手级的DX7，以及可以发出真正弦乐声音的采样器，单一音色的弦乐合成器再无生存空间，淡出了市场。</p>
-<p>这些产品都是模拟合成器，通过切分振荡器来实现全复音，然后再用合唱效果器达到增厚音色的效果，它们往往基于预设，没有什么可调空间。大部分情况下，你所能做的就是调节某个声部的音量，开启/关闭合唱罢了。不少弦乐机还带有风琴声部，甚至是简单的合成器部分，这些琴往往被冠以Combo的称号，因为你可以同时演奏多个音色，其中的一个代表就是雅马哈SK-30，是雅马哈当时的主打产品之一，有着非常真实的Leslie风琴声音，除此之外还有Solo、弦乐、合成器一共四个声部。</p>
-<p><img src="/images/yamaha-sk30-206905.jpg" alt="yamaha-sk30-206905"></p>
-<p>弦乐合成器并不是真正的复音合成器（Polyphonic），它们被称为Paraphonic，也就是说所有的声部会汇总在一起经过同一个滤波器和放大器，也就是说每个音符不会有独立的音色变化，音色塑造是建立在整体上的，这是节省成本的一个重要举措。</p>
-<p>在<a href="https://www.bilibili.com/video/BV13r4y1c7y3">这个</a>视频中，你可以听到几款著名弦乐合成器的声音</p>
-<p><a href="https://www.bilibili.com/video/BV13r4y1c7y3">https://www.bilibili.com/video/BV13r4y1c7y3</a></p>
-<h2 id="经典产品"><a href="#经典产品" class="headerlink" title="经典产品"></a>经典产品</h2><p>那时，各厂商都加入了弦乐机的蓝海，中，纷纷推出了自己的产品，我在这里列出当时的几款经典产品，供读者参考。</p>
-<p><strong>1.罗兰RS-202</strong></p>
-<p><img src="/images/Roland_RS-202_1_1024x1024@2x.jpg" alt="Roland_RS-202_1_1024x1024@2x"></p>
-<p>这是罗兰的第二款弦乐合成器，此前的RS-101并无巨大差别，但却取得了巨大成功，成为了迪斯科音乐中弦乐声音的流行之选，它的声音由两个弦乐声部和一个管乐声部（虽然一点也不像管乐）组成，5个八度的键盘被分割成了左2八度和右3八度，分别演奏不同的声音，202带来了LFO颤音延迟以及罗兰经典永流传的合唱效果器。</p>
-<p>202是罗兰最重要的产品之一，在当时的市场站稳了脚跟，202甚至引来了一个叫Multivox MX-202的一比一“致敬”产品，可以说是十分成功了。</p>
-<p><strong>2.ARP Solina String Ensemble</strong></p>
-<p><img src="/images/1970-arp-solina-9.jpg" alt="1970-arp-solina-9"></p>
-<p>本文的头图就是这个，是ARP与Solina公司的合作产品，来源于Eminent 310U风琴的弦乐部分，ARP对其做了改进，做出了世界上最棒的弦乐合成器之一。</p>
-<p>这款产品的声音丰满、温暖，带有模拟合成器特有的味道，锐利的声音时时吸引着人的注意力。它的一大卖点是，你可以按下一个和弦，然后只要不松手，声音就会一直持续下去，当时的同类产品往往是有限包络，发出的声音长度并不是无限的，Solina的合唱效果器也是独具特色，并不是如罗兰版细腻宽广，是一种充满活力感，动态十足的声音。</p>
-<p><strong>3.Korg Trident</strong></p>
-<p><img src="/images/Korg-Trident.jpeg" alt="Korg Trident"></p>
-<p>Korg当时的旗舰产品，与其余产品不同，是一个真复音的合成器，他有8复音，有合成器、管乐和弦乐三个声部，每个声部都有独立的压控滤波器，它可控的参数非常多，还有16个（MK II里是32个）用户预设存储。</p>
-<p>Trident的一大亮点是板载的镶边效果器，不仅可调性很高，它甚至可以自激振荡！</p>
-<p>Trident的声音厚实温暖，很有高级模拟合成器的味道，平静的声音之下是汹涌的暗流，声音仿佛带有魔法，是不可多得的传奇产品。</p>
-<h2 id="文艺复兴"><a href="#文艺复兴" class="headerlink" title="文艺复兴"></a><strong>文艺复兴</strong></h2><p>众所周知，我们正处于模拟合成器的复古热潮中，弦乐合成器也不例外，它们又被擦去灰尘，回到了舞台和工作室里。人们发现了弦乐合成器的独特之处，那种宽宏、饱满却怎么也不像真实弦乐的合成音色，如今显得十分可贵，随着许多例如Arturia Solina V这样的插件出现，弦乐机的精神续作也出现了——Waldorf Striechfett。</p>
-<img src="/images/Waldorf-Streichfett-Shiny.jpg" alt="Waldorf-Streichfett-Shiny" style="zoom:50%;" />
-
-<p>与上面的合成器不同的是，Streichfett是一款数字合成器，并且，它是2014年发布的，也是最近20年唯一的弦乐合成器。这款产品和此前发布的Rocket以及2-Pole有着非常相似的外观，但是内部装着一颗复古的心。Streichfett没有尝试去模仿任何一款弦乐机，而是创造了自己的声音，它的声音偏向细腻而更具电影感，用一个旋钮来无缝结合各种声部的设计也非常天才，加上各种效果器以及音色存储功能可以说，这是弦乐合成器的一款集大成者，上面的视频中也可以听到它的声音。</p>
-<p>Striechfett在国内可以以2000元的价格买到。</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>弦乐合成器的声音总是带有一种坚硬的内核，许多人认为这是由切分振荡器带来的，所有的音符都来源于同一个振荡器，所以它们之间没有相位差异，这是其它合成器所做不到的。现在，弦乐机的价值被重新发现，在许多音乐里可以听到它们的声音，最后，让我们用一首歌来结束这篇文章吧。</p>
-<p><a href="https://music.163.com/#/outchain/2/27959002/">https://music.163.com/#/outchain/2/27959002/</a></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27959002&auto=1&height=66"></iframe>
-]]></content>
-      <tags>
-        <tag>科普</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>玩合成器必懂的20个合成器名词（入门必看）</title>
     <url>/2021/04/09/%E7%8E%A9%E5%90%88%E6%88%90%E5%99%A8%E5%BF%85%E6%87%82%E7%9A%8420%E4%B8%AA%E5%90%88%E6%88%90%E5%99%A8%E5%90%8D%E8%AF%8D/</url>
     <content><![CDATA[<h1 id="玩好合成器必懂的20个名词"><a href="#玩好合成器必懂的20个名词" class="headerlink" title="玩好合成器必懂的20个名词"></a>玩好合成器必懂的20个名词</h1><p><img src="/images/DX7.jpeg" alt="DX7"></p>
@@ -1034,6 +994,47 @@
       <tags>
         <tag>科普</tag>
         <tag>新手</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>科普：什么是弦乐合成器？</title>
+    <url>/2021/08/31/%E7%A7%91%E6%99%AE%EF%BC%9A%E4%BB%80%E4%B9%88%E6%98%AF%E5%BC%A6%E4%B9%90%E5%90%88%E6%88%90%E5%99%A8%EF%BC%9F/</url>
+    <content><![CDATA[<p>虽然现在已经几乎绝迹，但是合成器玩家都会知道，在70-80年代间，曾流行过一个十分独特的合成器门类：弦乐合成器。</p>
+<img src="/images/arp-solina-string-ensemble-1018946.jpg" alt="arp-solina-string-ensemble-1018946" style="zoom: 50%;" />
+
+<span id="more"></span>
+
+<h2 id="短暂而光辉的历史"><a href="#短暂而光辉的历史" class="headerlink" title="短暂而光辉的历史"></a><strong>短暂而光辉的历史</strong></h2><p>弦乐合成器是合成器早期时代的产物，与其说是合成器，它们更像是模拟合成器与电子风琴诞下的私生子，在那个合成器及其昂贵的年代里，弦乐合成器成了丰富和弦伴奏的最佳选择。催生这种产品的很大一部分原因也是新兴的合成器市场对于复音合成器的需求，弦乐合成器很好地填补了这一空白，而到了80年代后，复音合成器如雨后春笋般出现，从高级的Prophet-5到入门的Juno-6，再到杀手级的DX7，以及可以发出真正弦乐声音的采样器，单一音色的弦乐合成器再无生存空间，淡出了市场。</p>
+<p>这些产品都是模拟合成器，通过切分振荡器来实现全复音，然后再用合唱效果器达到增厚音色的效果，它们往往基于预设，没有什么可调空间。大部分情况下，你所能做的就是调节某个声部的音量，开启/关闭合唱罢了。不少弦乐机还带有风琴声部，甚至是简单的合成器部分，这些琴往往被冠以Combo的称号，因为你可以同时演奏多个音色，其中的一个代表就是雅马哈SK-30，是雅马哈当时的主打产品之一，有着非常真实的Leslie风琴声音，除此之外还有Solo、弦乐、合成器一共四个声部。</p>
+<p><img src="/images/yamaha-sk30-206905.jpg" alt="yamaha-sk30-206905"></p>
+<p>弦乐合成器并不是真正的复音合成器（Polyphonic），它们被称为Paraphonic，也就是说所有的声部会汇总在一起经过同一个滤波器和放大器，也就是说每个音符不会有独立的音色变化，音色塑造是建立在整体上的，这是节省成本的一个重要举措。</p>
+<p>在<a href="https://www.bilibili.com/video/BV13r4y1c7y3">这个</a>视频中，你可以听到几款著名弦乐合成器的声音</p>
+<p><a href="https://www.bilibili.com/video/BV13r4y1c7y3">https://www.bilibili.com/video/BV13r4y1c7y3</a></p>
+<h2 id="经典产品"><a href="#经典产品" class="headerlink" title="经典产品"></a>经典产品</h2><p>那时，各厂商都加入了弦乐机的蓝海，中，纷纷推出了自己的产品，我在这里列出当时的几款经典产品，供读者参考。</p>
+<p><strong>1.罗兰RS-202</strong></p>
+<p><img src="/images/Roland_RS-202_1_1024x1024@2x.jpg" alt="Roland_RS-202_1_1024x1024@2x"></p>
+<p>这是罗兰的第二款弦乐合成器，此前的RS-101并无巨大差别，但却取得了巨大成功，成为了迪斯科音乐中弦乐声音的流行之选，它的声音由两个弦乐声部和一个管乐声部（虽然一点也不像管乐）组成，5个八度的键盘被分割成了左2八度和右3八度，分别演奏不同的声音，202带来了LFO颤音延迟以及罗兰经典永流传的合唱效果器。</p>
+<p>202是罗兰最重要的产品之一，在当时的市场站稳了脚跟，202甚至引来了一个叫Multivox MX-202的一比一“致敬”产品，可以说是十分成功了。</p>
+<p><strong>2.ARP Solina String Ensemble</strong></p>
+<p><img src="/images/1970-arp-solina-9.jpg" alt="1970-arp-solina-9"></p>
+<p>本文的头图就是这个，是ARP与Solina公司的合作产品，来源于Eminent 310U风琴的弦乐部分，ARP对其做了改进，做出了世界上最棒的弦乐合成器之一。</p>
+<p>这款产品的声音丰满、温暖，带有模拟合成器特有的味道，锐利的声音时时吸引着人的注意力。它的一大卖点是，你可以按下一个和弦，然后只要不松手，声音就会一直持续下去，当时的同类产品往往是有限包络，发出的声音长度并不是无限的，Solina的合唱效果器也是独具特色，并不是如罗兰版细腻宽广，是一种充满活力感，动态十足的声音。</p>
+<p><strong>3.Korg Trident</strong></p>
+<p><img src="/images/Korg-Trident.jpeg" alt="Korg Trident"></p>
+<p>Korg当时的旗舰产品，与其余产品不同，是一个真复音的合成器，他有8复音，有合成器、管乐和弦乐三个声部，每个声部都有独立的压控滤波器，它可控的参数非常多，还有16个（MK II里是32个）用户预设存储。</p>
+<p>Trident的一大亮点是板载的镶边效果器，不仅可调性很高，它甚至可以自激振荡！</p>
+<p>Trident的声音厚实温暖，很有高级模拟合成器的味道，平静的声音之下是汹涌的暗流，声音仿佛带有魔法，是不可多得的传奇产品。</p>
+<h2 id="文艺复兴"><a href="#文艺复兴" class="headerlink" title="文艺复兴"></a><strong>文艺复兴</strong></h2><p>众所周知，我们正处于模拟合成器的复古热潮中，弦乐合成器也不例外，它们又被擦去灰尘，回到了舞台和工作室里。人们发现了弦乐合成器的独特之处，那种宽宏、饱满却怎么也不像真实弦乐的合成音色，如今显得十分可贵，随着许多例如Arturia Solina V这样的插件出现，弦乐机的精神续作也出现了——Waldorf Striechfett。</p>
+<img src="/images/Waldorf-Streichfett-Shiny.jpg" alt="Waldorf-Streichfett-Shiny" style="zoom:50%;" />
+
+<p>与上面的合成器不同的是，Streichfett是一款数字合成器，并且，它是2014年发布的，也是最近20年唯一的弦乐合成器。这款产品和此前发布的Rocket以及2-Pole有着非常相似的外观，但是内部装着一颗复古的心。Streichfett没有尝试去模仿任何一款弦乐机，而是创造了自己的声音，它的声音偏向细腻而更具电影感，用一个旋钮来无缝结合各种声部的设计也非常天才，加上各种效果器以及音色存储功能可以说，这是弦乐合成器的一款集大成者，上面的视频中也可以听到它的声音。</p>
+<p>Striechfett在国内可以以2000元的价格买到。</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>弦乐合成器的声音总是带有一种坚硬的内核，许多人认为这是由切分振荡器带来的，所有的音符都来源于同一个振荡器，所以它们之间没有相位差异，这是其它合成器所做不到的。现在，弦乐机的价值被重新发现，在许多音乐里可以听到它们的声音，最后，让我们用一首歌来结束这篇文章吧。</p>
+<p><a href="https://music.163.com/#/outchain/2/27959002/">https://music.163.com/#/outchain/2/27959002/</a></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=27959002&auto=1&height=66"></iframe>
+]]></content>
+      <tags>
+        <tag>科普</tag>
       </tags>
   </entry>
   <entry>
